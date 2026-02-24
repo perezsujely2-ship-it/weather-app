@@ -23,6 +23,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.Search-Box{
+  height: 30px;
+}
+.Search-Box input{
+  min-height: 30px;
+}
 
 .App-link {
   color: #61dafb;
